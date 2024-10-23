@@ -1,2 +1,2 @@
 # CutisSite
-CutisSite for studio
+Наброски сайта для студии Cutis
